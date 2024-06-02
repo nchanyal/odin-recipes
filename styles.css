@@ -2,13 +2,26 @@
     color: blue;
 }
 
+.parent1,
+.parent2,
 #desc {
     font-size: 22px;
+}
+
+#desc {
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .parent1 li {
-    font-size: 22px;
     font-weight: bold;
     background-color: blueviolet;
+}
+
+.parent2 li {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
 }
