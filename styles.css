@@ -6,3 +6,9 @@
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.parent1 li {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: blueviolet;
+}
