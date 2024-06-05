@@ -1,0 +1,9 @@
+.heading,
+#link-container,
+.links {
+    display: inline;
+}
+
+#link-container {
+    margin: auto;
+}
