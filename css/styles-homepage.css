@@ -2,8 +2,48 @@
 #link-container,
 .links {
     display: inline;
+    color: rgb(209 213 219);
+    margin-top: 0px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: rgb(209 213 219);
 }
 
 #link-container {
-    margin: auto;
+    padding-left: 0px;
+    text-align: right;
+    margin-left: 900px;
+}
+
+.links {
+    margin-left: 10px;
+}
+
+.nav-bar {
+    background-color: rgb(48, 50, 158);
+    border-bottom: 3px solid #d1d5db;
+}
+
+.heading {
+    margin-left: 10px;
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    text-decoration: underline;
 }
